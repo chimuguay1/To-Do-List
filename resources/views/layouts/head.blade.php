@@ -12,15 +12,9 @@
         <link rel="stylesheet" type="text/css" href="{{asset('bootstrap-5.1.3-dist/css/bootstrap.min.css')}}">
         <link rel="stylesheet" type="text/css" href="{{asset('css/side_bar_menu.blade.css')}}">
         <link rel="stylesheet" type="text/css" href="{{asset('css/dashboard.blade.css')}}">
-        <link rel="stylesheet" type="text/css" href="{{asset('css/register_exit.blade.css')}}">
-        <link rel="stylesheet" type="text/css" href="{{asset('css/register_entry.blade.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{asset('css/index_buttons.css')}}">
         <link rel="stylesheet" type="text/css" href="{{asset('css/index.blade.css')}}">
-        <link rel="stylesheet" type="text/css" href="{{asset('css/exitVehicules.blade.css')}}">
-        <link rel="stylesheet" type="text/css" href="{{asset('css/anadir.css')}}">
-        <link rel="stylesheet" type="text/css" href="{{asset('css/create-vehicle.blade.css')}}">
-        <link rel="stylesheet" type="text/css" href="{{asset('css/edit-vehicle.blade.css')}}">
-        <link rel="stylesheet" type="text/css" href="{{asset('css/exit-vehicle.blade.css')}}">
-        <link rel="stylesheet" type="text/css" href="{{asset('css/entry-vehicle.blade.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{asset('css/create.css')}}">
         <link rel="stylesheet" type="text/css" href="{{asset('css/modal.css')}}">
                 
     </head>
